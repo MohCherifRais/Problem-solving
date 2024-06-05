@@ -1,6 +1,6 @@
 # Problem-solving
 
-I Solved more than +1000 problems and multi projects which helped me to enhance my skills, expand my knowledge and prepare for technical interviews.
+I Solved more than +2000 problems and multi projects which helped me to enhance my skills, expand my knowledge and prepare for technical interviews.
 
 How to learn programming the right way? do not waste your time in the wrong place This is to summarize it:
 
