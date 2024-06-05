@@ -17,6 +17,7 @@ Modern programming languages are good and you have to learn them but you need to
 
 4- Learn C++ , Java, or Python : only one language , just learn the fundamentals, and then start solving problems on it, you should solve not less than 2000 problems.
 Before you finish 500 to 700 problems, never read or learn anything else.
+
 After you finish 500 to 700 problems then start read about Data structure, algorithms, object oriented, in this stage you will understand them easily.
 
 5- After you finish solving 2000 problems; this will take you not less than a year;
